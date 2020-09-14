@@ -1,7 +1,7 @@
 applications:
-- name: mycallsda
+- name: AgSy
 memory: 256M
-host: mycallsda
+host: AgSy
 instances: 1
 disk_quota: 512M
 buildpack: sdk-for-nodejs
